@@ -28,12 +28,10 @@ A comprehensive collection of Python implementations and explanations for fundam
 
 ├── dp-recursion        Dynamic programming and recursive solutions
 
-├── interview-problems  Company-specific coding challenges
-
-└── basic-algos         Fundamental algorithm implementations
+└── fluentpy.ipynb         Fundamental concepts in advanced Python
 
 
-Credited Solutions: Greg Hogg and NeetCode
+Credited Solutions: Greg Hogg, NeetCode, Luciano Ramalho
 
 ## Usage
 
