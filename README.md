@@ -1,6 +1,6 @@
 # Python Data Structures & Algorithms
 
-A comprehensive collection of Python implementations and explanations for fundamental data structures and algorithms, designed for computer science and mathematics students preparing for technical interviews and coursework.
+A comprehensive collection of Python implementations and explanations for fundamental data structures and algorithms, designed for computer science and mathematics students preparing for technical interviews and coursework. Also a deepdive into advanced Python through my personal notes of the book *Fluent Python*
 
 ## What's Inside
 
@@ -24,13 +24,13 @@ A comprehensive collection of Python implementations and explanations for fundam
 - **Hash Maps & Sets** - Frequency counting and lookup optimizations
 
 ## Structure
-├── DSA-Basics/          # Core concepts and implementations
+├── DSA-Basics          Core concepts and implementations
 
-├── dp-recursion/        # Dynamic programming and recursive solutions
+├── dp-recursion        Dynamic programming and recursive solutions
 
-├── interview-problems/  # Company-specific coding challenges
+├── interview-problems  Company-specific coding challenges
 
-└── basic-algos/         # Fundamental algorithm implementations
+└── basic-algos         Fundamental algorithm implementations
 
 
 Credited Solutions: Greg Hogg and NeetCode
@@ -41,4 +41,4 @@ Each file contains detailed explanations, time/space complexity analysis, and wo
 
 ## Notes
 
-These are personal study notes documenting my understanding of DSA concepts in Python. They include common patterns and tricks discovered while preparing for technical interviews and coursework.
+These are personal study notes documenting my understanding of DSA concepts in Python. They include common patterns and tricks discovered while preparing for technical interviews, projects, and coursework.
