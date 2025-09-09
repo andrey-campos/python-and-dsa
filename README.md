@@ -25,9 +25,13 @@ A comprehensive collection of Python implementations and explanations for fundam
 
 ## Structure
 ├── DSA-Basics/          # Core concepts and implementations
+
 ├── dp-recursion/        # Dynamic programming and recursive solutions
+
 ├── interview-problems/  # Company-specific coding challenges
+
 └── basic-algos/         # Fundamental algorithm implementations
+
 
 Credited Solutions: Greg Hogg and NeetCode
 
